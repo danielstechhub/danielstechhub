@@ -1,26 +1,30 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=20,30,40&height=180&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=35&fontColor=fff&animation=fadeIn&fontY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=10,20,30,40&height=160&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=32&fontColor=fff&animation=fadeIn&fontY=38" />
 
-  <p align="center"><strong>Lead Architect & Founder @ LUMYNEX</strong> | Full-Stack Developer & UI/UX Specialist</p>
-  
   <p align="center">
-    <a href="https://www.linkedin.com/in/ayodeji-oluwafemi-daniel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-    <a href="https://www.instagram.com/daniels_techpro.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://myportfolio-gamma-six-37.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live%20Site-blue?style=flat&logo=globe&logoColor=white" alt="Portfolio"></a>
-    <a href="https://lumynex.com" target="_blank"><img src="https://img.shields.io/badge/Company-LUMYNEX-purple?style=flat&logo=rocket&logoColor=white" alt="LUMYNEX"></a>
+    <code>Full-Stack Developer</code> &bull; <code>UI/UX Specialist</code> &bull; <code>Lead Architect @ LUMYNEX</code>
+  </p>
+
+  <p align="center">
+    <a href="https://www.linkedin.com/in/ayodeji-oluwafemi-daniel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+    <a href="https://www.instagram.com/daniels_techpro.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
+    <a href="https://myportfolio-gamma-six-37.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"></a>
+    <a href="https://lumynex.com" target="_blank"><img src="https://img.shields.io/badge/LUMYNEX-7928CA?style=for-the-badge&logo=rocket&logoColor=white" alt="LUMYNEX"></a>
   </p>
 </div>
 
 ---
 
-### 🚀 About Me
-I am a passionate software engineer and system architect focused on building robust web applications, high-performance e-commerce ecosystems, and modern user interfaces. As the founder of **LUMYNEX**, I bridge the gap between complex backend infrastructure and seamless, elegant digital experiences.
+### 💻 About Me
 
-* 🔭 I’m currently architecting scalable e-commerce solutions, clinical platforms, and advanced web applications.
-* ⚡ I specialize in full-stack web development, Shopify custom theme engineering, and API integrations.
-* 🧠 Driven by a strategic, analytical approach to software architecture and system design.
-
----
+```typescript
+const developer = {
+  name: "Ayodeji Oluwafemi Daniel",
+  role: "Lead Architect & Full-Stack Engineer",
+  company: "LUMYNEX",
+  focus: ["Scalable Web Apps", "E-Commerce Architecture", "Secure Systems"],
+  mission: "Bridging complex backend infrastructure with seamless, high-performance user interfaces."
+};
 
 ### 🛠️ Tech Stack & Expertise
 
@@ -58,5 +62,5 @@ I am a passionate software engineer and system architect focused on building rob
 ---
 
 ### 📫 Let's Connect
-* 💼 **Business Inquiries:** contact@lumynex.com
+* 💼 **Business Inquiries:** Oluwafemiayodeji37@gmail.com
 * 🌐 **Portfolio:** [myportfolio-gamma-six-37.vercel.app](https://myportfolio-gamma-six-37.vercel.app/)
