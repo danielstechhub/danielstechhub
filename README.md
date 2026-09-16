@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=10,18,30,45&height=180&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=34&fontColor=00E5FF&animation=fadeIn&fontY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=0,5,10,20&height=180&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=34&fontColor=D4AF37&animation=fadeIn&fontY=38" />
 
   <p align="center">
     <code>Full-Stack Developer</code> &bull; <code>UI/UX Specialist</code> &bull; <code>Lead Architect @ LUMYNEX</code>
@@ -8,8 +8,8 @@
   <p align="center">
     <a href="https://www.linkedin.com/in/ayodeji-oluwafemi-daniel" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
     <a href="https://www.instagram.com/daniels_techpro.io/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>
-    <a href="https://myportfolio-gamma-six-37.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-000000?style=for-the-badge&logo=vercel&logoColor=00E5FF" alt="Portfolio"></a>
-    <a href="https://lumynex.com" target="_blank"><img src="https://img.shields.io/badge/LUMYNEX-0A0A0A?style=for-the-badge&logo=rocket&logoColor=00E5FF" alt="LUMYNEX"></a>
+    <a href="https://myportfolio-gamma-six-37.vercel.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Live_Site-111111?style=for-the-badge&logo=vercel&logoColor=D4AF37" alt="Portfolio"></a>
+    <a href="https://lumynex.com" target="_blank"><img src="https://img.shields.io/badge/LUMYNEX-111111?style=for-the-badge&logo=rocket&logoColor=D4AF37" alt="LUMYNEX"></a>
   </p>
 </div>
 
@@ -72,10 +72,10 @@ I am a passionate software engineer and system architect focused on building rob
 ---
 
 ### 📫 Let's Connect
-* 💼 **Business Inquiries:** oluwafemiayodeji37@gmail.com
+* 💼 **Business Inquiries:**oluwafemiayodeji37@gmail.com
 * 🌐 **Portfolio:** [myportfolio-gamma-six-37.vercel.app](https://myportfolio-gamma-six-37.vercel.app/)
 
 <div align="center">
   <br/>
   <small>⚡ Profile engineered with precision by Ayodeji Oluwafemi Daniel</small><br/>
-  
+ 
