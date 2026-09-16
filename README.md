@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=6,11,24,38&height=180&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=34&fontColor=fff&animation=fadeIn&fontY=38" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColor_list=0,15,35,60,80&height=180&section=header&text=Ayodeji%20Oluwafemi%20Daniel&fontSize=34&fontColor=fff&animation=fadeIn&fontY=38" />
 
   <p align="center">
     <code>Full-Stack Developer</code> &bull; <code>UI/UX Specialist</code> &bull; <code>Lead Architect @ LUMYNEX</code>
@@ -72,11 +72,11 @@ I am a passionate software engineer and system architect focused on building rob
 ---
 
 ### 📫 Let's Connect
-* 💼 **Business Inquiries:** oluwafemiayodeji37@gmail.com
+* 💼 **Business Inquiries:** contact@lumynex.com
 * 🌐 **Portfolio:** [myportfolio-gamma-six-37.vercel.app](https://myportfolio-gamma-six-37.vercel.app/)
 
 <div align="center">
   <br/>
   <small>⚡ Profile engineered with precision by Ayodeji Oluwafemi Daniel</small><br/>
-  <img src="https://komarev.com/ghpvc/?username=danielstechhub&color=blueviolet&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=danielstechhub&color=blueviolet&style=flat-square&abg=gradient" alt="Profile Views" />
 </div>
